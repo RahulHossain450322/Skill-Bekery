@@ -1,0 +1,57 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  hr {
+    border: none;
+  }
+}
+@layer components {
+  .mute_color {
+    @apply text-gray-400;
+  }
+  .input_style {
+    @apply px-6 py-3 w-full rounded-xl outline-none text-slate-500;
+  }
+}
+@layer utilities {
+  .bg_color {
+    background-color: #082923;
+  }
+  .bg_input {
+    background-color: #48645f;
+  }
+  .bg_btn {
+    background-color: #fc6f2f;
+  }
+  .text_color {
+    color: #fc6f2f;
+  }
+  .hr {
+    border-top: 0.2rem solid rgb(105, 103, 103);
+  }
+  .course_card {
+    border-radius: 0px 0px 15px 15px;
+  }
+  .img_top_rounded {
+    border-radius: 15px 15px 0 0;
+  }
+  .bg_red {
+    background-color: #d8231b;
+  }
+  .logo_style {
+    width: 80px;
+  }
+  .rap {
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap: 50px;
+    width: 700px;
+    overflow-x: scroll;
+    scroll-behavior: smooth;
+  }
+  .card {
+    width: 500px;
+  }
+}

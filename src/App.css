@@ -1,0 +1,40 @@
+/* hero */
+.hero {
+  background-image: url("./Components/Hero_sec/Components/Images/image 33.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bg_hero {
+  background-color: rgba(4, 11, 17, 0.397);
+}
+
+/* card */
+.popular {
+  margin-top: -150px;
+}
+.card2 {
+  background-image: url("./Components//Card_sec/images/image 34.png");
+}
+.card1 {
+  background-image: url("./Components//Card_sec/images/image 33.png");
+}
+.card3 {
+  background-image: url("./Components//Card_sec/images/image 35.png");
+}
+.card_basic_design {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 250px;
+  border-radius: 15px;
+}
+.title {
+  background-color: rgba(240, 248, 255, 0.199);
+  border-radius: 15px 15px 0 0;
+}
+.des {
+  background-color: rgba(240, 248, 255, 0.199);
+  border-radius: 0px 0px 15px 15px;
+  margin-top: 144px;
+}
