@@ -15,7 +15,7 @@
     @apply px-6 py-3 w-full rounded-xl outline-none text-slate-500;
   }
   .hero_menu {
-    @apply list-none text-white flex lg:space-x-4 md:space-x-4 lg:justify-end lg:flex-row md:flex-row lg:space-y-0 md:space-y-0 lg:pr-3 md:pr-3 md:justify-end justify-center py-3 space-x-6;
+    @apply list-none text-white flex lg:space-x-4 md:space-x-4 lg:justify-end lg:flex-row md:flex-row lg:space-y-0 md:space-y-0 lg:pr-3 md:pr-3 md:justify-end justify-center py-3 space-x-6 flex-wrap;
   }
   .header_title {
     @apply lg:text-4xl text-2xl text-center text-slate-100;

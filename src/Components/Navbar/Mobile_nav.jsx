@@ -1,8 +1,8 @@
 import { useState } from "react";
 import { FaBars } from "react-icons/fa";
 import { RxCross1 } from "react-icons/rx";
-import Logo_nav from "./components/logo_nav";
-import M_Nav_menu from "./components/M_Nav_menu";
+import Logo_nav from "./Helper_Components/logo_nav";
+import M_Nav_menu from "./Helper_Components/M_Nav_menu";
 
 function Mobile_nav() {
   const [toggle, setToggle] = useState(false);

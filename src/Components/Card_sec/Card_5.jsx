@@ -13,7 +13,7 @@ card5"
         </button>
       </div>
       <p className="text-white p-3 des">
-        Cosmos DB Learn the bit and bones of Cosmos DB
+        Functional Programming using Javascript
       </p>
     </div>
   );

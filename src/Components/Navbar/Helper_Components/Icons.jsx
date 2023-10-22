@@ -11,7 +11,7 @@ function Icons() {
       <div className="relative flex items-center">
         <input
           type="search"
-          className="bg_input w-56 px-3 py-2 rounded-full outline-none text-slate-100 placeholder-slate-100"
+          className="bg_input w-40 px-3 py-2 rounded-full outline-none text-slate-100 placeholder-slate-100"
           placeholder="search"
           name="search"
         />
