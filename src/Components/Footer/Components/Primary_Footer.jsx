@@ -2,8 +2,8 @@ import {} from "react";
 import logo from "./Images/image 2.png";
 function Primary_Footer() {
   return (
-    <div className="flex items-center  lg:flex-row md:flex-col space-y-6 flex-col">
-      <div className="flex">
+    <div className="flex items-center lg:flex-row space-y-6 flex-col">
+      <div className="flex lg:me-0 me-auto">
         <div className="">
           <img src={logo} className="logo_style" alt="" />
         </div>
@@ -15,7 +15,7 @@ function Primary_Footer() {
           </p>
         </div>
       </div>
-      <ul className="list-none text-slate-300 flex items-center lg:flex-row flex-col gap-6 lg:ms-36">
+      <ul className="list-none text-slate-300 flex items-center lg:flex-row gap-6 lg:ms-36 flex-wrap ">
         <li className="">About</li>
         <li className="">Our Courses</li>
         <li className="">Reviews</li>

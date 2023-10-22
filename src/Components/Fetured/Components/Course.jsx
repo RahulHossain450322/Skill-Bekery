@@ -3,7 +3,7 @@ import {} from "react";
 function Course() {
   return (
     <div className="">
-      <p className="text-6xl text-center text-slate-100">Featured Courses</p>
+      <p className="header_title">Featured Courses</p>
       <div className="my-16 grid lg:grid-cols-5 grid-cols-2 gap-8 text-center">
         <p className="border-2 border-gray-600 px-4 py-3 rounded-full mute_color hover:bg_btn hover:border-0 hover:text-white">
           All Course

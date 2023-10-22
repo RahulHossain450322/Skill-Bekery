@@ -5,7 +5,7 @@ function Student_Comments() {
   return (
     <div className="container mx-auto mt-24">
       <div className="">
-        <p className="text-6xl text-center text-slate-100">What Students Say</p>
+        <p className="header_title">What Students Say</p>
         <p className="mute_color text-center mt-3">
           The path to success in development
         </p>

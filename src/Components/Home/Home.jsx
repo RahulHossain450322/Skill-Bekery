@@ -17,7 +17,7 @@ function Home() {
     <main className="bg_color">
       <PC_NAV />
       <Mobile_nav />
-      <hr className="hr" />
+      <hr className="hr mt-2" />
       <Hero />
       <Card_sec />
       <Subscription />

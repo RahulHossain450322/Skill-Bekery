@@ -7,7 +7,7 @@ function H_Content() {
   return (
     <div className=" py-24 flex items-center bg_hero">
       <div className="py-24">
-        <p className="font-bold text-7xl text-slate-50">
+        <p className="font-bold text-2xl lg:text-7xl md:text-4xl text-slate-50">
           Web-Development Courses
         </p>
         <p className="text-lg mt-5 text-slate-300">
@@ -27,8 +27,8 @@ function H_Content() {
             title={"1990+ Reviews"}
           />
         </div>
-        <div className="mt-5">
-          <button className="bg_btn px-6 py-2 rounded-full text-slate-100">
+        <div className="mt-8">
+          <button className="bg_btn px-6 py-2 rounded-full text-slate-100 hover:bg-blue-500">
             Sign up
           </button>
         </div>

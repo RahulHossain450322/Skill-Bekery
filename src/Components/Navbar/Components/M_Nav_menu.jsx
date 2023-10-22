@@ -7,8 +7,8 @@ import {
 function M_Nav_menu() {
   return (
     <div className="relative">
-      <div className=" hide_menu absolute bg-slate-100 p-6 w-4/12">
-        <ul className="list-none text-slate-500 space-y-3">
+      <div className=" absolute bg-slate-100 p-6 ">
+        <ul className="list-none text-slate-500  space-y-3">
           <li className="">ALL COURSE</li>
           <li className="">FREE</li>
           <li className="">WEB DEVELOPMENT</li>

@@ -4,7 +4,7 @@ function Stay_inform() {
   return (
     <div className="container mx-auto mt-6 ">
       <div className="">
-        <p className="text-6xl text-center text-slate-100">Stay Informed</p>
+        <p className="header_title">Stay Informed</p>
         <p className="mute_color text-center mt-4 text-lg">
           Be the first to receive notifications about new <br /> course and
           promotions

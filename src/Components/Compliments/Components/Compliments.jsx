@@ -3,7 +3,7 @@ import { FaUserSecret } from "react-icons/fa";
 function Compliments() {
   return (
     <div className="mt-6 space-y-4">
-      <FaUserSecret className="text-7xl  p-3 rounded-full bg_btn" />
+      <FaUserSecret className="text-7xl mx-auto p-3 rounded-full bg_btn" />
       <p className="text-slate-300 text-justify">
         Rebum lorem dolores sadipscing gubergren magna et ipsum labore et. Ut
         eos at eos dolor. Diam est nonumy voluptua dolores erat labore et. Dolor

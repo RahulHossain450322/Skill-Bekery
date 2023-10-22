@@ -4,7 +4,7 @@ function Description() {
   return (
     <div className="lg:w-1/2">
       <div className="">
-        <p className="text-6xl text-slate-100">SkillBakery Studio</p>
+        <p className="text-4xl text-slate-100">SkillBakery Studio</p>
         <p className="mt-3 text-slate-300">Subscribe our youtube channel</p>
         <p className="mt-6 text-slate-300  text-justify">
           Rebum dolor tempor erat sit eirmod eos et voluptua. Voluptua dolor
@@ -28,7 +28,7 @@ function Description() {
           et elitr sadipscing elitr. Tempor consetetur et stet elitr sea
           sadipscing stet stet, amet kasd elitr et consetetur.
         </p>
-        <button className="bg_btn mt-6 w-4/12 py-3 rounded-full text-slate-300">
+        <button className="bg_btn mt-6 md:w-1/2 w-full lg:w-4/12 py-3 rounded-full text-slate-300">
           Select Subscription
         </button>
       </div>

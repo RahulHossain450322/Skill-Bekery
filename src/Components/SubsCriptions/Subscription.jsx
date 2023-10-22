@@ -5,7 +5,7 @@ function Subscription() {
   return (
     <div className="text-white container mx-auto py-24">
       <div className="text-center">
-        <p className="text-6xl">Subscriptions</p>
+        <p className="header_title">Subscriptions</p>
         <p className="text-gray-300 text-lg mt-5">
           Provides access to all courses on our platform
         </p>
